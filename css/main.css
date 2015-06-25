@@ -1,0 +1,18 @@
+
+p.NameOfStories {
+	border   : 1px solid yellow;
+}
+
+h1{
+	text-align: left;
+	color:rgba(255, 229, 0, 1);
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+img {
+    max-width: 600px;   
+}
